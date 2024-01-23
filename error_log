@@ -1,0 +1,37 @@
+[30-Dec-2018 00:25:12 Asia/Jakarta] PHP Warning:  include(/layout/sidebar.php): failed to open stream: No such file or directory in /home/firstmed/public_html/skensalibrary.web.id/formkunjungananggota.php on line 2
+[30-Dec-2018 00:25:12 Asia/Jakarta] PHP Warning:  include(): Failed opening '/layout/sidebar.php' for inclusion (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/firstmed/public_html/skensalibrary.web.id/formkunjungananggota.php on line 2
+[30-Dec-2018 00:25:17 Asia/Jakarta] PHP Warning:  include(/layout/sidebar.php): failed to open stream: No such file or directory in /home/firstmed/public_html/skensalibrary.web.id/formkunjungananggota.php on line 2
+[30-Dec-2018 00:25:17 Asia/Jakarta] PHP Warning:  include(): Failed opening '/layout/sidebar.php' for inclusion (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/firstmed/public_html/skensalibrary.web.id/formkunjungananggota.php on line 2
+[30-Dec-2018 00:25:41 Asia/Jakarta] PHP Notice:  A session had already been started - ignoring session_start() in /home/firstmed/public_html/skensalibrary.web.id/logout.php on line 2
+[30-Dec-2018 00:25:44 Asia/Jakarta] PHP Warning:  include(/layout/sidebar.php): failed to open stream: No such file or directory in /home/firstmed/public_html/skensalibrary.web.id/formkunjungananggota.php on line 2
+[30-Dec-2018 00:25:44 Asia/Jakarta] PHP Warning:  include(): Failed opening '/layout/sidebar.php' for inclusion (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/firstmed/public_html/skensalibrary.web.id/formkunjungananggota.php on line 2
+[30-Dec-2018 10:15:05 Asia/Jakarta] PHP Notice:  A session had already been started - ignoring session_start() in /home/firstmed/public_html/skensalibrary.web.id/logout.php on line 2
+[30-Dec-2018 10:22:47 Asia/Jakarta] PHP Notice:  A session had already been started - ignoring session_start() in /home/firstmed/public_html/skensalibrary.web.id/logout.php on line 2
+[30-Dec-2018 10:23:37 Asia/Jakarta] PHP Notice:  A session had already been started - ignoring session_start() in /home/firstmed/public_html/skensalibrary.web.id/logout.php on line 2
+[31-Dec-2018 15:35:54 Asia/Jakarta] PHP Notice:  Undefined index: tujuan in /home/firstmed/public_html/skensalibrary.web.id/formkunjungananggota.php on line 11
+[31-Dec-2018 15:35:54 Asia/Jakarta] PHP Warning:  implode(): Invalid arguments passed in /home/firstmed/public_html/skensalibrary.web.id/formkunjungananggota.php on line 11
+[31-Dec-2018 15:48:57 Asia/Jakarta] PHP Notice:  Undefined index: penerima in /home/firstmed/public_html/skensalibrary.web.id/formkunjungantamu.php on line 13
+[31-Dec-2018 15:48:57 Asia/Jakarta] PHP Warning:  implode(): Invalid arguments passed in /home/firstmed/public_html/skensalibrary.web.id/formkunjungantamu.php on line 13
+[31-Dec-2018 15:48:59 Asia/Jakarta] PHP Warning:  include(/layout/sidebar.php): failed to open stream: No such file or directory in /home/firstmed/public_html/skensalibrary.web.id/tamu/caribuku.php on line 2
+[31-Dec-2018 15:48:59 Asia/Jakarta] PHP Warning:  include(): Failed opening '/layout/sidebar.php' for inclusion (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/firstmed/public_html/skensalibrary.web.id/tamu/caribuku.php on line 2
+[31-Dec-2018 16:07:16 Asia/Jakarta] PHP Notice:  A session had already been started - ignoring session_start() in /home/firstmed/public_html/skensalibrary.web.id/logout.php on line 2
+[31-Dec-2018 16:07:16 Asia/Jakarta] PHP Notice:  A session had already been started - ignoring session_start() in /home/firstmed/public_html/skensalibrary.web.id/logout.php on line 2
+[31-Dec-2018 18:41:25 Asia/Jakarta] PHP Notice:  A session had already been started - ignoring session_start() in /home/firstmed/public_html/skensalibrary.web.id/logout.php on line 2
+[31-Dec-2018 18:45:29 Asia/Jakarta] PHP Notice:  A session had already been started - ignoring session_start() in /home/firstmed/public_html/skensalibrary.web.id/logout.php on line 2
+[31-Dec-2018 18:47:07 Asia/Jakarta] PHP Notice:  A session had already been started - ignoring session_start() in /home/firstmed/public_html/skensalibrary.web.id/logout.php on line 2
+[31-Dec-2018 21:38:16 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/firstmed/public_html/skensalibrary.web.id/loginprocess.php on line 24
+[31-Dec-2018 21:38:27 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/firstmed/public_html/skensalibrary.web.id/loginprocess.php on line 24
+[31-Dec-2018 21:38:58 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/firstmed/public_html/skensalibrary.web.id/loginprocess.php on line 21
+[31-Dec-2018 21:39:13 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/firstmed/public_html/skensalibrary.web.id/loginprocess.php on line 21
+[31-Dec-2018 21:40:05 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/firstmed/public_html/skensalibrary.web.id/loginprocess.php on line 21
+[31-Dec-2018 21:40:59 Asia/Jakarta] PHP Parse error:  syntax error, unexpected end of file in /home/firstmed/public_html/skensalibrary.web.id/loginprocess.php on line 29
+[31-Dec-2018 21:42:34 Asia/Jakarta] PHP Notice:  A session had already been started - ignoring session_start() in /home/firstmed/public_html/skensalibrary.web.id/logout.php on line 2
+[31-Dec-2018 21:44:48 Asia/Jakarta] PHP Notice:  Undefined variable: id_user in /home/firstmed/public_html/skensalibrary.web.id/layout/sidebaradmin.php on line 14
+[31-Dec-2018 21:44:48 Asia/Jakarta] PHP Notice:  Undefined variable: id_user in /home/firstmed/public_html/skensalibrary.web.id/admin/dashboard.php on line 34
+[31-Dec-2018 21:45:31 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/firstmed/public_html/skensalibrary.web.id/loginprocess.php on line 23
+[31-Dec-2018 21:46:14 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/firstmed/public_html/skensalibrary.web.id/loginprocess.php on line 21
+[31-Dec-2018 21:48:17 Asia/Jakarta] PHP Notice:  A session had already been started - ignoring session_start() in /home/firstmed/public_html/skensalibrary.web.id/logout.php on line 2
+[31-Dec-2018 21:49:29 Asia/Jakarta] PHP Notice:  A session had already been started - ignoring session_start() in /home/firstmed/public_html/skensalibrary.web.id/logout.php on line 2
+[05-Jan-2019 19:22:23 Asia/Jakarta] PHP Notice:  Undefined variable: id_user in /home/firstmed/public_html/skensalibrary.web.id/layout/sidebaradmin.php on line 14
+[05-Jan-2019 19:22:23 Asia/Jakarta] PHP Notice:  Undefined variable: id_user in /home/firstmed/public_html/skensalibrary.web.id/admin/viewprofile.php on line 2
+[06-Jan-2019 20:00:11 Asia/Jakarta] PHP Notice:  Undefined variable: id_user in /home/firstmed/public_html/skensalibrary.web.id/layout/sidebaradmin.php on line 14
